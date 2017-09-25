@@ -12,11 +12,11 @@ EXT_SOFTLINKS=".lnk"              # extension of softlink files
 ```
 2.add this script into your initialize script(`.bashrc` or else)
 ```
-/xxx/x$ echo /path/to/this/script > /path/to/your/.bashrc
+/xxx/x$ echo /path/to/this/script/main.sh > /path/to/your/.bashrc
 ```
 or execute it manually in your bash process
 ```
-. /path/to/this/script
+/xxx/x$ . /path/to/this/script/main.sh
 ```
 
 enjoy it :)
