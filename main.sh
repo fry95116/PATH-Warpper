@@ -1,3 +1,5 @@
+#! /bin/bash
+
 #configures
 PATH_SOFTLINKS="/mnt/c/softlinks"
 EXT_SOFTLINKS=".lnk"
